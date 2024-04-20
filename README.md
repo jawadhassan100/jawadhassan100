@@ -45,6 +45,5 @@
 ## ⚡ GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jawadhassan100&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jawadhassan100" height="185" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jawadhassan100&show_icons=true&theme=tokyonight&locale=en" alt="jawadhassan100" height="185" /></p> <br/>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jawadhassan100&show_icons=true&theme=tokyonight&locale=en" alt="jawadhassan100" height="185" /></p> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jawadhassan100&theme=tokyonight" alt="jawadhassan100" /></p> <br/>
