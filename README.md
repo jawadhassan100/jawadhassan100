@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://my-portfolio-two-rouge.vercel.app/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=22&color=016EEA&size=24&center=true&lines=Hi+there+%F0%9F%91%8B%2C++I'am+Jawad+Hassan+Khan;Welcome+to+my+Profile!;I'm+MERN+Full+stack+developer;I+enjoy+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=22&color=000&size=24&center=true&lines=Hi+there+%F0%9F%91%8B%2C++I'am+Jawad+Hassan+Khan;Welcome+to+my+Profile!;I'm+MERN+Full+stack+developer;I+enjoy+learning+new+things)](https://git.io/typing-svg)
 <h3 align="center">A passionate full stack MERN Developer as well as python django developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawadhassan100&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jawadhassan100" /> </p>
