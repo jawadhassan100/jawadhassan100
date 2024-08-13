@@ -41,6 +41,22 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&width=200)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Nodemon](https://img.shields.io/badge/nodemon-%2346D157.svg?style=for-the-badge&logo=nodemon&logoColor=white) 
+![React Router](https://img.shields.io/badge/react_router-%2320232a.svg?style=for-the-badge&logo=react-router&logoColor=%2361DAFB) 
+![JWT](https://img.shields.io/badge/JWT-%2300BFFF.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white) 
+![GitHub Pages](https://img.shields.io/badge/github_pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![React Hook Form](https://img.shields.io/badge/react_hook_form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
+![SaaS](https://img.shields.io/badge/SaaS-%23000000.svg?style=for-the-badge&logo=saas&logoColor=white) 
+![Semantic UI React](https://img.shields.io/badge/semantic_ui_react-%23414141.svg?style=for-the-badge&logo=semantic-ui&logoColor=white) 
+![WordPress](https://img.shields.io/badge/wordpress-%234F54F0.svg?style=for-the-badge&logo=wordpress&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%2340E0D0.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white) 
+![Farmer](https://img.shields.io/badge/farmer-%237CBA0D.svg?style=for-the-badge&logo=farming&logoColor=white) 
+![Babel](https://img.shields.io/badge/babel-%F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=white) 
+![Postman](https://img.shields.io/badge/postman-%EF7E20.svg?style=for-the-badge&logo=postman&logoColor=white) 
+![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white) 
+
+
 
 ## ⚡ GitHub Stats
 
